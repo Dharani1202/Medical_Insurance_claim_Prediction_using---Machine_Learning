@@ -2,7 +2,7 @@
 
 This project predicts **medical insurance claim costs** using multiple regression-based machine learning algorithms. The goal is to analyze health and demographic data to estimate individual insurance expenses accurately.
 
-* View the Project
+* <a href="https://github.com/Dharani1202/Medical_Insurance_claim_Prediction_using---Machine_Learning/blob/main/ML_Medical%20Insurance_Project.ipynb"> View the Project </a>
 
 ## About
 
@@ -125,7 +125,8 @@ This project demonstrates an **end-to-end regression workflow** for predicting m
 
 The project showcases practical knowledge of **data preprocessing**, **exploratory analysis**, and **machine learning model comparison** in a real-world regression problem.
 
-*
+
+* <a href="https://github.com/Dharani1202/Medical_Insurance_claim_Prediction_using---Machine_Learning/blob/main/ML_Medical%20Insurance_Project.ipynb"> View the Project </a>
 
 ---
 
